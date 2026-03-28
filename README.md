@@ -22,4 +22,4 @@ Este proyecto corresponde a un Currículum Vitae Interactivo desarrollado con HT
 Katherine Altamirano
 
 ## Enlace del proyecto
-Agrega aquí tu enlace de GitHub Pages:
+https://kataltamiranog.github.io/cv-interactivo/
