@@ -16,10 +16,11 @@ body {
 }
 
 .profile-img {
-  width: 250px;
-  height: 250px;
+  width: 220px;
+  height: 190px; 
   object-fit: cover;
-  border: 6px solid white;
+  border-radius: 50%;
+  border: 5px solid white;
 }
 
 .section-box {
